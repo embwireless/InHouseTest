@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.9.19.207/index.php/s/FQIWMPGmVe1sW71</string>
+					<string>http://apk.mhs.local/apks/majikwealth/ios/app/debug/majikwealth_1.9.0(Build%20215)_B_20170307_1732.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://10.9.19.207/index.php/s/xX87iNTCfly6N4s</string>
+					<string>http://cdn.game.yileweb.com/djx_res_01/ipa/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
