@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://apk.mhs.local/apks/majikwealth/ios/app/debug/majikwealth_1.9.0(Build%20216)_B_20170307_2151.ipa</string>
+					<string>http://apk.mhs.local/apks/majikwealth/ios/app/debug/majikwealth_1.9.0(Build%20220)_B_20170308_2101.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>有鱼股票(体验版)</string>
+				<string>有鱼股票(内测版)</string>
 			</dict>
 		</dict>
 	</array>
