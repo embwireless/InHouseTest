@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://apk.mhs.local/apks/temp/RuiFuTech_Ent%202017-05-22%2011-51-28.ipa</string>
+                                        <string>http://apk.mhs.local/apks/majikwealth/ios/app/debug/majikwealth_2.2.0(Build_459)_B_20170714_1027.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -31,11 +31,11 @@
                                 <key>bundle-identifier</key>
                                 <string>com.RuiFuTech.Financial-Enterprise</string>
                                 <key>bundle-version</key>
-                                <string>1.9.1</string>
+                                <string>2.2.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>有鱼股票(只连香港站点版)</string>
+                                <string>有鱼股票(技术指标体验)</string>
                         </dict>
                 </dict>
         </array>
