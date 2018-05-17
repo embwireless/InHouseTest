@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://apk.mhs.local/apks/majikwealth/ios/app/debug/majikwealth_2.7.0(Build_1285)_B_20180517_1538.ipa</string>
+                                        <string>http://apk.mhs.local/apks/majikwealth/ios/app/debug/majikwealth_2.7.1(Build_1286)_B_20180517_1820.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -31,7 +31,7 @@
                                 <key>bundle-identifier</key>
                                 <string>com.RuiFuTech.Financial-Enterprise</string>
                                 <key>bundle-version</key>
-                                <string>2.7.0</string>
+                                <string>2.7.1</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
